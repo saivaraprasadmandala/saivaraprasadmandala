@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack and AI/ML Projects**
 
-- 📫 How to reach me **mandalasaivaraprasad@gmail.com**
+- 📫 You can contact me at **mandalasaivaraprasad@gmail.com**
 
 - ⚡ Fun fact - **Movie enthusiast who can talk film plots as passionately as most talk algorithms!**
 
