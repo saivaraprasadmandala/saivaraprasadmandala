@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/d9d99bf8-228b-42e8-8e66-9f05835c96c9">
 
-- 🌱 I’m currently learning **Full Stack Development **
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **Full Stack and AI/ML Projects**
 
