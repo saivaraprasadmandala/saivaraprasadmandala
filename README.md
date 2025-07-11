@@ -63,4 +63,12 @@
 
 <a align="left" href="http://www.github.com/saivaraprasadmandala"><img src="https://github-readme-stats.vercel.app/api?username=saivaraprasadmandala&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="saivaraprasadmandala's GitHub stats" /></a>
 
-<a align="left" href="http://www.github.com/saivaraprasadmandala"><img src="https://streak-stats.demolab.com?user=saivaraprasadmandala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/></a>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saivaraprasadmandala&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saivaraprasadmandala&theme=radical&hide_border=false" alt="saivaraprasadmandala's streak stats"/>
+</p>
