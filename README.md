@@ -7,11 +7,15 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
+- 🖥️ See my portfolio at [https://svp.portfolio.builtforthis.tech/](https://svp.portfolio.builtforthis.tech/)
+
 - 👯 I’m looking to collaborate on **Full Stack and AI/ML Projects**
 
 - 📫 You can contact me at **mandalasaivaraprasad@gmail.com**
 
 - ⚡ Fun fact - **Movie enthusiast who can talk film plots as passionately as most talk algorithms!**
+
+
 
 
 <h3 align="left">Connect with me:</h3>
