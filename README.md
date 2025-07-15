@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Vara Prasad</h1>
+<h1 align="center">Hi 👋, I'm Sai Vara Prasad Mandala</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saivaraprasadmandala&label=Profile%20views&color=0e75b6&style=flat" alt="saivaraprasadmandala" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saivaraprasadmandala" target="blank"><img src="https://img.shields.io/twitter/follow/saivaraprasadmandala?logo=twitter&style=for-the-badge" alt="saivaraprasadmandala" /></a> </p>
